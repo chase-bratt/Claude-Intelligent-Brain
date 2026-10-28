@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="470" viewBox="0 0 960 470" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  <rect width="960" height="470" rx="18" fill="#0b1020"/>
+  <rect x="24" y="24" width="448" height="422" rx="14" fill="#151a2e" stroke="#334155"/>
+  <rect x="488" y="24" width="448" height="422" rx="14" fill="#12233a" stroke="#38bdf8"/>
+  <text x="48" y="64" font-size="20" font-weight="700" fill="#cbd5e1">Obsidian "semantic brain"</text>
+  <text x="48" y="88" font-size="13" fill="#64748b">vault + embedding plugin + Claude reading notes</text>
+  <text x="512" y="64" font-size="20" font-weight="700" fill="#ffffff">claude-brain</text>
+  <text x="512" y="88" font-size="13" fill="#7dd3fc">SQLite vectors + always-on local recall server</text>
+  <g font-size="15" fill="#94a3b8">
+    <text x="48" y="132">✕  You write and link the notes by hand</text>
+    <text x="48" y="172">✕  Embeddings live inside a GUI app</text>
+    <text x="48" y="212">✕  Claude greps and reads whole notes</text>
+    <text x="48" y="252">✕  Thousands of tokens burned per lookup</text>
+    <text x="48" y="292">✕  Semantic OR keyword, rarely fused</text>
+    <text x="48" y="332">✕  Stores what you remembered to write</text>
+    <text x="48" y="372">✕  Plugin formats, sync, and lock-in</text>
+    <text x="48" y="412">✕  Answers from a summary of the past</text>
+  </g>
+  <g font-size="15" fill="#e2e8f0">
+    <text x="512" y="132"><tspan fill="#34d399" font-weight="700">✓</tspan>  Every session saved automatically</text>
+    <text x="512" y="172"><tspan fill="#34d399" font-weight="700">✓</tspan>  Headless: no app open, ever</text>
+    <text x="512" y="212"><tspan fill="#34d399" font-weight="700">✓</tspan>  One command returns ranked snippets</text>
+    <text x="512" y="252"><tspan fill="#34d399" font-weight="700">✓</tspan>  Only the relevant chunk enters context</text>
+    <text x="512" y="292"><tspan fill="#34d399" font-weight="700">✓</tspan>  Vector + BM25 fused with RRF</text>
+    <text x="512" y="332"><tspan fill="#34d399" font-weight="700">✓</tspan>  Stores what was actually said</text>
+    <text x="512" y="372"><tspan fill="#34d399" font-weight="700">✓</tspan>  Plain markdown + one SQLite file</text>
+    <text x="512" y="412"><tspan fill="#34d399" font-weight="700">✓</tspan>  Answers cite date, title and file</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Never commit a built brain or anything from it
+claude-brain/
+transcripts/
+inbox/
+index/
+*.db
+*.db-*
+*.sqlite
+*.log
+autosave.off
+catalog.json
+CATALOG.md
+
+# Secrets
+.env
+.env.*
+
+# Python / editors
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
